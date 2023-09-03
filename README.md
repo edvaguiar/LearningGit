@@ -1,2 +1,2 @@
 # Learning Git and Github
- Repositorio    Teste
+ Repositório Teste
